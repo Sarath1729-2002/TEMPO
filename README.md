@@ -519,11 +519,7 @@ potential extensions of this work.
 - **Research discussions:** Email me directly
 - **Bug reports:** Use GitHub Issues
 
-### Current Status
-I'm currently applying to research Masters programs (MILA, Waterloo, UBC, Alberta, McGill) 
-with interests in temporal modeling, representation learning, and AI reasoning. Looking forward 
-to continuing work in sequence understanding and behavioral modeling with proper research 
-mentorship and resources.
+
 
 ---
 
