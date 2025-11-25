@@ -32,7 +32,7 @@ This project demonstrates:
 - **Institution:** Vellore Institute of Technology (VIT Chennai)
 - **Duration:** June 2022 - February 2024
 - **Collaboration:** Ministry of Electronics and IT, Government of India (Sanction: L-14011/4/2022-HRD)
-- **Supervisors:** Prof. Dr. L. Jegannathan, Prof. Dr. Janaki Meena Murugan
+- **Supervisors:** Prof. Dr. Jeganathan. L, Prof. Dr. Janaki Meena Murugan
 - **Initial Publication:** CoCoNet 2022 Conference (attention monitoring)
 
 ---
@@ -482,7 +482,7 @@ The learned temporal representations can be applied to various domains:
 ## 🙏 Acknowledgments
 
 **Supervision:**
-- **Prof. Dr. L. Jegannathan**, Professor, VIT Chennai
+- **Prof. Dr. Jeganathan L**, Professor, VIT Chennai
 - **Prof. Dr. Janaki Meena Murugan**, Professor, VIT Chennai
 
 **Funding:**
