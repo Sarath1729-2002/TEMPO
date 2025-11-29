@@ -539,7 +539,7 @@ If this work is useful for your research, please consider citing:
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/[your-username]/TEMPO}},
+  howpublished = {\url{https://github.com/Sarath1729-2002/TEMPO}},
   note = {Temporal representation learning framework for behavioral sequence modeling. 
           Research conducted at VIT Chennai in collaboration with MeitY, Government of India.}
 }
