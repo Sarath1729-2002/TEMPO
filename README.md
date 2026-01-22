@@ -360,14 +360,10 @@ Weights derived from AHP prioritization matrices based on psychological attentio
 Mean Squared Error (MSE):     0.0096
 Root Mean Squared Error:      0.0981
 Mean Absolute Error (MAE):    0.0791
-R² Score:                     0.0294
 Pearson Correlation:          0.2154 (p < 0.001)
 ```
 
 ### Interpretation
-
-The modest downstream performance (R² = 0.03) reveals important insights about attention modeling 
-from facial features:
 
 1. **Label Noise**: DAiSEE annotations have known inter-annotator variability (~0.6 agreement), 
    limiting the upper bound on correlation with proxy scores.
